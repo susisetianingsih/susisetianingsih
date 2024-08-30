@@ -11,11 +11,13 @@ I am a freshgraduate of Informatics at Universitas Jenderal Soedirman. I am inte
 </p>
 
 ### 👩‍💻 About Me
+
 - 🔭 I am interested in **Data Science**, **Data Analyst**, **UI/UX Designer**, and **Quality Assurance**
 - 🌱 Skilled in **analytical skill**, **data visualization**, and **problem solving**
 - ✨ I like challenge for my self
 - ⚡ Fun fact **I am very enthusiasm for learning**
 
 ### 📊 Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susisetianingsih&show_icons=true&layout=compact&theme=tokyonight&hide=html,css"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=susisetianingsih&show_icons=true&theme=tokyonight"/></p>
