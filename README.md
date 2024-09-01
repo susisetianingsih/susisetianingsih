@@ -1,6 +1,6 @@
 # Hi 👋, I'm Susi Setianingsih 
 
-I am a freshgraduate of Informatics at Universitas Jenderal Soedirman. I am interested in data science, UI/UX Designer, and Quality Assurance Engineer. I am a person who has a high curiosity, enthusiasm for learning, easy to learn new things, and easy to adapt. Skilled in analytical skill, data visualization, and problem solving.
+I am a freshgraduate in Informatics from Universitas Jenderal Soedirman. I have a strong interest in data analysis, data science, machine learning, UI UX design, and web programming. I am highly curious, eager to learn, quick to pick up new skills, and easily adaptable. I possess strong analytical skills, proficiency in data visualization, and problem-solving skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susisetianingsih&label=Profile%20views&color=0e75b6&style=flat" alt="susisetianingsih" /> </p>
 
