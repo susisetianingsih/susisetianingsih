@@ -1,4 +1,4 @@
-## Hi 👋, I'm Susi Setianingsih 
+# Hi 👋, I'm Susi Setianingsih 
 
 I am a freshgraduate of Informatics at Universitas Jenderal Soedirman. I am interested in data science, UI/UX Designer, and Quality Assurance Engineer. I am a person who has a high curiosity, enthusiasm for learning, easy to learn new things, and easy to adapt. Skilled in analytical skill, data visualization, and problem solving.
 
