@@ -12,7 +12,7 @@ I am a freshgraduate in Informatics from Universitas Jenderal Soedirman. I have 
 
 ### 👩‍💻 About Me
 
-- 🔭 I am interested in **Data Science**, **Data Analyst**, **UI/UX Designer**, and **Quality Assurance**
+- 🔭 I am interested in **Data Science**, **Data Analyst**, **UI/UX Designer**, and **Web Programming**
 - 🌱 Skilled in **analytical skill**, **data visualization**, and **problem solving**
 - ✨ I like challenge for my self
 - ⚡ Fun fact **I am very enthusiasm for learning**
