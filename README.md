@@ -1,6 +1,6 @@
 # Hi 👋, I'm Susi Setianingsih 
 
-I am a freshgraduate in Informatics from Universitas Jenderal Soedirman. I have a strong interest in data analysis, data science, machine learning, UI UX design, and web programming. I am highly curious, eager to learn, quick to pick up new skills, and easily adaptable. I possess strong analytical skills, proficiency in data visualization, and problem-solving skills.
+I am a freshgraduate in Informatics, Universitas Jenderal Soedirman. I have experience in developing IT solutions such as data analysis, process automation, information systems, and creating UI designs. With a strong curiosity and desire to learn, I can quickly acquire new skills and adapt easily.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susisetianingsih&label=Profile%20views&color=0e75b6&style=flat" alt="susisetianingsih" /> </p>
 
@@ -12,7 +12,6 @@ I am a freshgraduate in Informatics from Universitas Jenderal Soedirman. I have 
 
 ### 👩‍💻 About Me
 
-- 🔭 I am interested in **Data Science**, **Data Analyst**, **UI/UX Designer**, and **Web Programming**
 - 🌱 Skilled in **analytical skill**, **data visualization**, and **problem solving**
 - ✨ I like challenge for my self
 - ⚡ Fun fact **I am very enthusiasm for learning**
